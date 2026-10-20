@@ -15,7 +15,7 @@
     foundedYear: 2017,
     founder: 'Anh Hùng',
     hotline: '0974 002 626',
-    address: '164 Nguyễn Công Trứ, Phường Cam Nghĩa, TP. Cam Ranh, Tỉnh Khánh Hòa',
+    address: '164 Nguyễn Công Trứ, Bắc Cam Ranh, Tỉnh Khánh Hòa',
     mapsUrl: 'https://maps.app.goo.gl/ZVeX6JNn2JimF6246',
     fabTitle: 'Hỏi Yến Sào Bảo Linh',
     fabSub: 'Tư vấn chọn yến & giá gốc 24/7',
@@ -35,7 +35,7 @@ THÔNG TIN THƯƠNG HIỆU CHÍNH THỨC:
 - Tên thương hiệu: Yến Sào Bảo Linh.
 - Lịch sử ra đời: Thành lập từ năm 2017 (hơn 7 năm kinh nghiệm nuôi, khai thác và phân phối yến sào chuẩn gốc Cam Ranh - Khánh Hòa).
 - Người sáng lập & phụ trách kỹ thuật: Anh Hùng - Chủ hệ thống nhà yến Bảo Linh.
-- Địa chỉ cơ sở: 164 Nguyễn Công Trứ, Phường Cam Nghĩa, Thành phố Cam Ranh, Tỉnh Khánh Hòa (Link Google Maps: https://maps.app.goo.gl/ZVeX6JNn2JimF6246).
+- Địa chỉ cơ sở: 164 Nguyễn Công Trứ, Bắc Cam Ranh, Tỉnh Khánh Hòa (Link Google Maps: https://maps.app.goo.gl/ZVeX6JNn2JimF6246).
 - Số điện thoại Hotline & Zalo: 0974 002 626 (Hỗ trợ 24/7).
 - Khẩu hiệu: Tinh hoa yến sào thiên nhiên Khánh Hòa - Trọn vẹn dinh dưỡng tận gốc nhà nuôi.
 
@@ -106,7 +106,7 @@ QUY TẮC BẮT BUỘC KHI GIAO TIẾP:
     }
 
     if (q.includes('địa chỉ') || q.includes('ở đâu') || q.includes('cửa hàng') || q.includes('vị trí') || q.includes('map')) {
-      return `Dạ, cơ sở **Yến Sào Bảo Linh** tọa lạc tại:\n📍 **Địa chỉ**: 164 Nguyễn Công Trứ, Phường Cam Nghĩa, Thành phố Cam Ranh, Tỉnh Khánh Hòa.\n🗺️ Quý khách có thể xem đường đi chi tiết trên Google Maps: [Xem trên Google Maps](https://maps.app.goo.gl/ZVeX6JNn2JimF6246)\n📞 Hotline liên hệ: <strong class="phone-single-line" style="color: #9e0b0f;">0974 002 626</strong>.\nChúng tôi luôn hoan nghênh Quý khách ghé thăm trải nghiệm trực tiếp ạ!`;
+      return `Dạ, cơ sở **Yến Sào Bảo Linh** tọa lạc tại:\n📍 **Địa chỉ**: 164 Nguyễn Công Trứ, Bắc Cam Ranh, Tỉnh Khánh Hòa.\n🗺️ Quý khách có thể xem đường đi chi tiết trên Google Maps: [Xem trên Google Maps](https://maps.app.goo.gl/ZVeX6JNn2JimF6246)\n📞 Hotline liên hệ: <strong class="phone-single-line" style="color: #9e0b0f;">0974 002 626</strong>.\nChúng tôi luôn hoan nghênh Quý khách ghé thăm trải nghiệm trực tiếp ạ!`;
     }
 
     if (q.includes('chưng') || q.includes('cách nấu') || q.includes('cách dùng') || q.includes('ngâm') || q.includes('bao lâu')) {
