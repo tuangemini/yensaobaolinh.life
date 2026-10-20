@@ -275,7 +275,9 @@ h1, h2, h3, h4, h5, h6 {
 .brand-logo-wrap {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 12px;
+  flex-shrink: 0;
+  text-decoration: none;
 }
 
 .brand-logo-img {
@@ -286,6 +288,7 @@ h1, h2, h3, h4, h5, h6 {
   border: 2px solid var(--royal-gold);
   box-shadow: var(--shadow-gold);
   transition: transform 0.3s ease;
+  flex-shrink: 0;
 }
 
 .brand-logo-wrap:hover .brand-logo-img {
@@ -295,29 +298,53 @@ h1, h2, h3, h4, h5, h6 {
 .brand-text-wrap {
   display: flex;
   flex-direction: column;
+  justify-content: center;
+  flex-shrink: 0;
 }
 
 .brand-name {
   font-family: var(--font-heading);
-  font-size: 1.55rem;
+  font-size: 1.35rem;
   font-weight: 800;
   color: var(--primary-red);
   letter-spacing: 0.5px;
-  line-height: 1.1;
+  line-height: 1.15;
+  white-space: nowrap !important;
+  display: block;
+}
+
+.brand-name .brand-part {
+  white-space: nowrap !important;
+  display: inline-block;
 }
 
 .brand-tagline {
-  font-size: 0.78rem;
-  font-weight: 600;
+  font-size: 0.72rem;
+  font-weight: 700;
   color: var(--gold-dark);
-  letter-spacing: 1.2px;
+  letter-spacing: 0.8px;
   text-transform: uppercase;
+  white-space: nowrap !important;
+  margin-top: 3px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.brand-tagline .tagline-part {
+  white-space: nowrap !important;
+  display: inline-block;
+}
+
+.brand-tagline .tagline-dot {
+  color: var(--royal-gold);
+  font-size: 0.75rem;
 }
 
 .nav-links {
   display: flex;
   align-items: center;
-  gap: 28px;
+  gap: 20px;
 }
 
 .nav-link {
