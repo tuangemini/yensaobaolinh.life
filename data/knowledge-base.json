@@ -1,0 +1,137 @@
+{
+  "brand": {
+    "name": "Yến Sào Bảo Linh",
+    "foundedYear": 2017,
+    "experienceYears": "Hơn 7 năm (từ 2017 đến nay)",
+    "founder": "Anh Hùng",
+    "title": "Chủ hệ thống nhà yến Bảo Linh",
+    "hotline": "0974002626",
+    "hotlineFormatted": "0974 002 626",
+    "address": "164 Nguyễn Công Trứ, Phường Cam Nghĩa, Thành phố Cam Ranh, Tỉnh Khánh Hòa",
+    "googleMapsUrl": "https://maps.app.goo.gl/ZVeX6JNn2JimF6246",
+    "slogan": "Tinh Hoa Yến Sào Thiên Nhiên - Trọn Vẹn Dưỡng Chất Từ Đất Biển Khánh Hòa",
+    "commitment": [
+      "100% Tổ yến nguyên chất thu hoạch trực tiếp từ hệ thống nhà yến Bảo Linh tại Cam Ranh - Khánh Hòa",
+      "Tuyệt đối KHÔNG pha trộn đường, mủ trôm, nấm tuyết hay hóa chất độn trọng lượng",
+      "Quy trình nhặt lông thủ công tỉ mỉ bằng nước tinh khiết khử khuẩn, sấy lạnh tiệt trùng khép kín",
+      "Bảo tồn trọn vẹn 18 loại acid amin và 31 nguyên tố vi lượng quý giá cho sức khỏe",
+      "Hoàn tiền 200% nếu phát hiện hàng giả, hàng kém chất lượng"
+    ]
+  },
+  "story": {
+    "title": "Hành Trình Khởi Nghiệp & Tâm Huyết Của Yến Sào Bảo Linh Từ Năm 2017",
+    "content": "Được thành lập từ năm 2017 tại vùng đất Cam Ranh - Khánh Hòa - cái nôi của nghề yến sào Việt Nam, Yến Sào Bảo Linh do Anh Hùng gây dựng với khát vọng mang đến cho người tiêu dùng những tổ yến thuần khiết nhất, sạch nhất với giá trị thực từ nhà nuôi yến. Trải qua hơn 7 năm không ngừng nghiên cứu vi khí hậu, âm thanh dẫn dụ và kỹ thuật chăm sóc nhà yến bền vững, hệ thống nhà yến Bảo Linh hiện đã trở thành ngôi nhà an toàn cho hàng vạn chim yến về làm tổ. Từng tổ yến được thu hoạch nhân đạo (chỉ hái khi chim non đã trưởng thành và bay đi), qua sơ chế tỉ mỉ và đóng hộp sang trọng đến tận tay khách hàng."
+  },
+  "products": [
+    {
+      "id": "yen-tinh-che-vip",
+      "name": "Tổ Yến Tinh Chế Thượng Hạng Bảo Linh",
+      "category": "Yến Tinh Chế",
+      "badge": "Bán Chạy Nhất",
+      "description": "Tổ yến đã được nhặt sạch lông và tạp chất thủ công 100%, ép khuôn tạo hình cánh quạt/tai yến hoàn hảo, sấy lạnh tiệt trùng. Sợi yến dày, nở nhiều, dai ngon đặc trưng.",
+      "weightOptions": ["50g", "100g"],
+      "image": "Tổ Yến Sào Bảo Linh 01.jpg",
+      "giftIncluded": "Tặng kèm đường phèn Quảng Ngãi, táo đỏ Tân Cương, hạt sen, cẩm nang chưng yến và túi hộp quà sang trọng"
+    },
+    {
+      "id": "yen-tho-nguyen-to",
+      "name": "Tổ Yến Thô Nguyên Tổ Khánh Hòa",
+      "category": "Yến Thô",
+      "badge": "Chuẩn Gốc 100%",
+      "description": "Tổ yến thô nguyên bản hái trực tiếp từ vách gỗ nhà yến Bảo Linh, còn nguyên lông và mùi tanh nồng tự nhiên của yến biển. Tai yến già, gân sợi nổi rõ, giữ trọn 100% vi chất tự nhiên.",
+      "weightOptions": ["50g", "100g"],
+      "image": "Tổ Yến Sào Bảo Linh 02.jpg",
+      "giftIncluded": "Tặng nhíp gắp lông chuyên dụng, đường phèn, táo đỏ và tài liệu hướng dẫn nhặt lông nhanh chuẩn kỹ thuật"
+    },
+    {
+      "id": "yen-rut-long-dinh-hinh",
+      "name": "Yến Rút Lông Khô Nguyên Tổ Xuất Khẩu",
+      "category": "Yến Cao Cấp",
+      "badge": "Thượng Phẩm",
+      "description": "Tuyển chọn từ những tổ yến thô thượng hạng ít lông nhất, dùng phương pháp rút lông khô giữ nguyên vẹn 100% hình dáng tổ ban đầu và chân yến giòn sần sật. Dành cho giới sành yến và quà biếu VIP.",
+      "weightOptions": ["100g"],
+      "image": "Tổ Yến Sào Bảo Linh 03.jpg",
+      "giftIncluded": "Hộp quà sơn mài/hộp hoa văn hoàng kim cao cấp, đông trùng hạ thảo, táo đỏ, kỷ tử, đường phèn"
+    },
+    {
+      "id": "hop-qua-bieu-hoang-gia",
+      "name": "Hộp Quà Biếu Cao Cấp Yến Sào Bảo Linh",
+      "category": "Quà Biếu",
+      "badge": "Sang Trọng",
+      "description": "Bộ hộp quà thiết kế sang trọng với tông màu đỏ nhung hoàng gia và vàng kim của thương hiệu Bảo Linh. Món quà trao gửi trọn vẹn chân tình, biểu tượng của sự may mắn, bình an và đại bổ sức khỏe.",
+      "weightOptions": ["100g Tổ Yến Thượng Hạng"],
+      "image": "Bao bì đóng gói Yến Sào Bảo Linh.jpg",
+      "giftIncluded": "Full set quà biếu cao cấp: Thố chưng gốm sứ cao cấp, táo đỏ, hạt sen, long nhãn, đông trùng hạ thảo, thiệp chúc mừng"
+    },
+    {
+      "id": "yen-chan-lam-sach",
+      "name": "Chân Tổ Yến Làm Sạch Bảo Linh",
+      "category": "Yến Tinh Chế",
+      "badge": "Giá Trị Cao",
+      "description": "Chân tổ yến là phần vững chắc nhất bám vào vách đá/gỗ của nhà yến, tích tụ nhiều dưỡng chất nhất. Khi chưng nở rất nhiều, sợi dày cùi giòn, ăn thơm ngậy rất đã miệng.",
+      "weightOptions": ["50g", "100g"],
+      "image": "Tổ Yến Sào Bảo Linh 04.jpg",
+      "giftIncluded": "Tặng kèm trọn bộ nguyên liệu chưng yến gia đình"
+    },
+    {
+      "id": "yen-tinh-che-tieu-chuan",
+      "name": "Tổ Yến Tinh Chế Sợi Tiêu Chuẩn",
+      "category": "Yến Tinh Chế",
+      "badge": "Gia Đình Ưa Chuộng",
+      "description": "Sơ chế sạch sẽ từ tổ yến nguyên chất, phân bổ đều sợi dài và sợi ngắn, phù hợp bồi bổ hàng ngày cho cả gia đình, người già và trẻ nhỏ với mức chi phí tiết kiệm tối ưu.",
+      "weightOptions": ["50g", "100g"],
+      "image": "Bên trong Hộp Yến Sào Bảo Linh.jpg",
+      "giftIncluded": "Tặng đường phèn và táo đỏ tự nhiên"
+    }
+  ],
+  "cookingGuide": {
+    "title": "Bí Quyết Chưng Yến Đúng Cách Giữ Trọn Dưỡng Chất",
+    "steps": [
+      {
+        "step": 1,
+        "name": "Ngâm Yến",
+        "detail": "Cho tổ yến tinh chế vào bát nước tinh khiết ngâm trong 20 - 30 phút cho sợi yến tơi mềm đều (với yến đảo hoặc chân yến ngâm 40 - 60 phút). Không ngâm bằng nước nóng."
+      },
+      {
+        "step": 2,
+        "name": "Chuẩn Bị Thố Chưng",
+        "detail": "Vớt yến ra để ráo, cho yến vào thố sứ hoặc bát có nắp đậy. Đổ nước tinh khiết ngập yến (khoảng 3/4 thố để tránh trào khi yến nở phồng)."
+      },
+      {
+        "step": 3,
+        "name": "Chưng Cách Thủy",
+        "detail": "Đặt thố vào nồi chưng cách thủy. Đậy vung, đun lửa lớn cho nước sôi rồi hạ lửa nhỏ liu riu trong 20 - 25 phút. Không chưng yến quá 30 phút để tránh làm nát sợi yến và mất vi chất."
+      },
+      {
+        "step": 4,
+        "name": "Thêm Gia Vị & Thưởng Thức",
+        "detail": "Trước khi tắt bếp 5 phút, cho đường phèn tán nhuyễn, táo đỏ, hạt sen đã hấp chín hoặc vài lát gừng tươi vào khuấy nhẹ. Thưởng thức khi còn ấm hoặc để nguội cho vào ngăn mát tủ lạnh."
+      }
+    ],
+    "dosage": {
+      "adults": "Người lớn: 3 - 5g yến khô/lần, dùng 2 - 3 lần/tuần để tăng cường sinh lực, ngủ ngon, đẹp da.",
+      "elderly": "Người cao tuổi / Người mới ốm dậy: 3g/lần, dùng cách ngày để phục hồi thể trạng, tăng đề kháng, bồi bổ tim mạch.",
+      "children": "Trẻ em từ 1 - 3 tuổi: 1 - 1.5g/lần; từ 4 - 10 tuổi: 2 - 3g/lần, dùng 2 lần/tuần giúp tiêu hóa tốt, tăng chiều cao và phát triển trí não.",
+      "pregnant": "Phụ nữ mang thai (từ tháng thứ 4 trở đi): 3g/lần, dùng 2 - 3 lần/tuần giúp mẹ khỏe, giảm ốm nghén, thai nhi phát triển toàn diện."
+    },
+    "bestTime": "Thời điểm vàng dùng yến: Buổi sáng sớm trước khi ăn sáng 30 phút hoặc buổi tối trước khi đi ngủ 45 - 60 phút lúc bụng rỗng."
+  },
+  "faqs": [
+    {
+      "q": "Yến Sào Bảo Linh có nguồn gốc từ đâu?",
+      "a": "Dạ, Yến Sào Bảo Linh được nuôi và thu hoạch trực tiếp tại hệ thống nhà yến công nghệ cao do Anh Hùng quản lý tại Cam Ranh, Khánh Hòa từ năm 2017 đến nay. Chúng tôi quản lý khép kín từ khâu nuôi yến đến thành phẩm, không qua trung gian."
+    },
+    {
+      "q": "Làm thế nào để phân biệt yến thật và yến giả?",
+      "a": "Dạ, yến thật Bảo Linh khi ngâm nở gấp 4-6 lần, sợi yến dai trong suốt, có mùi tanh nhẹ tự nhiên của lòng trắng trứng, nước ngâm trong veo. Yến giả hoặc độn đường khi ngâm thường bị nhão nát, nước ngâm có màu đục hoặc ngọt gắt, sờ vào thấy nhớt."
+    },
+    {
+      "q": "Tôi ở xa thì đặt hàng và nhận hàng thế nào?",
+      "a": "Dạ, Yến Sào Bảo Linh giao hàng nhanh toàn quốc. Khách hàng được KIỂM TRA HÀNG trước khi thanh toán, kèm đầy đủ phiếu bảo hành và quà tặng. Miễn phí giao hàng toàn quốc cho đơn hàng từ 100g."
+    },
+    {
+      "q": "Chính sách bảo hành và cam kết của Yến Sào Bảo Linh là gì?",
+      "a": "Dạ, chúng tôi cam kết 100% tổ yến nguyên chất thiên nhiên. Bảo Linh sẵn sàng bồi thường gấp 200% giá trị đơn hàng nếu Quý khách kiểm định phát hiện sản phẩm có pha tạp chất hay phụ gia độc hại."
+    }
+  ]
+}
